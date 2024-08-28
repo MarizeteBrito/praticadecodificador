@@ -1,3 +1,3 @@
 # praticadecodificador
-Alura - partica
+Alura - pratica
 Projeto em desenvolvimento
